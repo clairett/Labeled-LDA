@@ -1,1 +1,1 @@
-# Multi-label-Mixture-Model
+# Labeled-LDA
